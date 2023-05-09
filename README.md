@@ -26,7 +26,4 @@
   <a href="https://github.com/matheussbzp/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussbzp&layout=compact&theme=vision-friendly-dark" />
   </a>
-  <a href="https://github.com/matheussbzp/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussbzp&repo=github-readme-stats&theme=vision-friendly-dark" />
-  </a>
-</div>
+ </div>
