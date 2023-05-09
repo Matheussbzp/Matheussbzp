@@ -2,7 +2,7 @@
    <h2>Olá, Me chamo Matheus!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
   <p>- 🤖 Tenho interesse em ingressar na área de Ciência de Dados</p>
   <p>- ☁ Estudando AWS</p>
-  <p>- 🌎 Procurando ser uma pessoa cada vez melhor</p>
+  <p>- 🌎 Em busca de ser uma pessoa cada vez melhor</p>
 </div>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='100'>
 <br>
