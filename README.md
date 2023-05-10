@@ -26,7 +26,6 @@
   <a href="https://github.com/matheussbzp/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussbzp&layout=compact&theme=vision-friendly-dark" />
   </a>
-	 ![Snake animation](https://github.com/matheussbzp/pedro-costa22/blob/output/github-contribution-grid-snake.svg)
- </div>
+	  </div>
  
 
