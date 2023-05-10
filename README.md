@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFE15C&height=120&section=header"/>
 <div align="center">
    <h2>Olá, Me chamo Matheus!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
   <p>- 🤖 Tenho interesse em ingressar na área de Ciência de Dados</p>
@@ -29,6 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussbzp&layout=compact&theme=vision-friendly-dark" />
   </a>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFE15C&height=120&section=footer"/>
  </div>
  
 
