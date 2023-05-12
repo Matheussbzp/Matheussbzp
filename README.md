@@ -35,7 +35,7 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheussbzp}/count.svg" /></p> 
 <br></div>
-![Snake animation](https://github.com/Lipeh011/Lipeh011/blob/output/github-contribution-grid-snake.svg)
+<img src= "https://github.com/Lipeh011/Lipeh011/blob/output/github-contribution-grid-snake.svg">
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFC100&height=120&section=footer"/>
  </div>
