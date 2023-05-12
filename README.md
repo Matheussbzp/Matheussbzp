@@ -28,6 +28,13 @@
   <a href="https://github.com/matheussbzp/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussbzp&layout=compact&theme=vision-friendly-dark" />
   </a>
+    <br>
+</div>
+  <br>
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheussbzp}/count.svg" /></p> 
+<br></div>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFC100&height=120&section=footer"/>
  </div>
